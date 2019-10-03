@@ -1,4 +1,6 @@
 
+//nice code
+
 ll ft[N];
 
 void update(int x, int delta){
