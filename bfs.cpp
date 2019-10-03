@@ -20,6 +20,7 @@ int bfs(int s) {
         visCount += 1;
     }
 
+        int m;
     return visCount;
 }
 // bfs
